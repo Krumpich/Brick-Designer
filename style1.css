@@ -2,4 +2,17 @@
 
     background-color: transparent;
     border-color: transparent;
+    right: 0px;
+}
+
+.OBJ_Backround{
+
+    position: fixed;
+
+  z-index: -1;
+  left: 0px;
+  top: 0px;
+  width: 500px;
+  height: 100vh;  
+
 }
