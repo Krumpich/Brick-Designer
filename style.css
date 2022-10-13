@@ -3,6 +3,9 @@
     background-color: transparent;
     border-color: transparent;
     right: 0px;
+
+    height: 140px;
+    width: 140px;
 }
 
 .OBJ_Backround{
@@ -14,5 +17,26 @@
   top: 0px;
   width: 500px;
   height: 100vh;  
+
+}
+
+.Button:hover{
+
+  height: 150px;
+  width: 150px;
+
+}
+.BtnImage{
+
+  height: 140px;
+  width: 140px;
+
+}
+
+
+.BtnImage:hover{
+
+  height: 150px;
+  width: 150px;
 
 }
