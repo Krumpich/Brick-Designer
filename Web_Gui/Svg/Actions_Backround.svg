@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Actions_Backround.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="447.85731"
+     inkscape:cy="603.02549"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#4d4d4d;fill-rule:evenodd;stroke-width:2"
+       id="rect833"
+       width="75.595238"
+       height="75.595238"
+       x="82.398804"
+       y="112.6369"
+       ry="0"
+       inkscape:export-filename="C:\Users\Jaka\Documents\VS_Code\Brick_Designer\Web_Gui\Png\Action_Backround.png"
+       inkscape:export-xdpi="103"
+       inkscape:export-ydpi="103" />
+    <path
+       style="fill:#666666;fill-rule:evenodd;stroke-width:5.39933;fill-opacity:1"
+       d="M 312.05397,551.57322 V 425.85893 h 142.5 142.5 v 125.71429 125.71429 h -142.5 -142.5 z"
+       id="path837"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\Jaka\Documents\VS_Code\Brick_Designer\Web_Gui\Png\Action_Backround.png"
+       inkscape:export-xdpi="103"
+       inkscape:export-ydpi="103" />
+  </g>
+</svg>

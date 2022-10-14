@@ -48,6 +48,16 @@
          stdDeviation="0.0001602619"
          id="feGaussianBlur3086" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2793"
+       id="linearGradient840"
+       gradientUnits="userSpaceOnUse"
+       x1="71.059525"
+       y1="119.0625"
+       x2="151.19048"
+       y2="119.0625"
+       gradientTransform="translate(-33.639881,110.74702)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -56,11 +66,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="186.79016"
-     inkscape:cy="430.36702"
+     inkscape:zoom="1.4"
+     inkscape:cx="177.17034"
+     inkscape:cy="896.50792"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -76,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,6 +114,25 @@
        inkscape:export-filename="C:\Users\Jaka\Documents\VS_Code\Brick_Designer\Web_Gui\Png\Objects_Backround.png"
        inkscape:export-xdpi="103.5071"
        inkscape:export-ydpi="103.5071" />
+    <rect
+       style="fill:url(#linearGradient840);fill-opacity:1;fill-rule:evenodd;stroke-width:0.7;stroke-opacity:0.261044"
+       id="rect838"
+       width="80.130951"
+       height="80.130951"
+       x="37.419643"
+       y="189.74405"
+       ry="0"
+       inkscape:export-filename="C:\Users\Jaka\Documents\VS_Code\Brick_Designer\Web_Gui\Png\Objects_Backround_2.png"
+       inkscape:export-xdpi="103.5071"
+       inkscape:export-ydpi="103.5071" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:5.39933;stroke-opacity:1"
+       d="M 397.7075,868.43756 V 717.36613 h 23.21429 23.21428 V 868.43756 1019.509 H 420.92179 397.7075 Z"
+       id="path850"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\Jaka\Documents\VS_Code\Brick_Designer\Web_Gui\Png\Objects_Backround_2.png"
+       inkscape:export-xdpi="103"
+       inkscape:export-ydpi="103" />
   </g>
   <g
      inkscape:groupmode="layer"

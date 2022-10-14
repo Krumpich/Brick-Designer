@@ -12,11 +12,24 @@
 
     position: fixed;
 
-  z-index: -1;
+  z-index: -2;
   left: 0px;
   top: 0px;
   width: 500px;
   height: 100vh;  
+
+}
+
+
+.Action_Backround{
+
+  position: fixed;
+
+z-index: -1;
+top: 0px;
+left: 0px;
+width: 200vh;
+height: 250px;  
 
 }
 
@@ -26,8 +39,10 @@
   width: 150px;
 
 }
+
 .BtnImage{
 
+  top: 250px;
   height: 140px;
   width: 140px;
 
@@ -38,5 +53,23 @@
 
   height: 150px;
   width: 150px;
+
+}
+
+
+.Download_Stl_Button{
+
+  background-color: transparent;
+  border-color: transparent;
+  height: 0px;
+  width: 0px;
+
+}
+
+.Download_Button_Image{
+
+  max-height: 100px;
+  width: 200px;
+  
 
 }
